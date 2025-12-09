@@ -19,6 +19,7 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ## 📚 Course Overview
 
 ### Core Courses (10 courses)
+
 1. **Introduction to Python** (4 hr) - Python basics and fundamental packages
 2. **Intermediate Python** (4 hr) - Matplotlib visualizations and pandas DataFrames
 3. **Data Manipulation with pandas** (4 hr) - Importing, cleaning, and analyzing data
@@ -33,10 +34,12 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ### Practical Projects (5 projects)
 
 #### Project 1: Investigating Netflix Movies
-**Duration:** 2 hours  
+
+**Duration:** 2 hours
 **Description:** Applied foundational Python skills to manipulate and visualize Netflix movie data, exploring trends and patterns in the streaming platform's content library.
 
 **Key Skills:**
+
 - Data manipulation with pandas
 - Data visualization
 - Exploratory data analysis
@@ -46,10 +49,12 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ---
 
 #### Project 2: Exploring NYC Public School Test Result Scores
-**Duration:** 2 hours  
+
+**Duration:** 2 hours
 **Description:** Analyzed test scores across New York City's public schools using data manipulation and summary statistics to identify performance patterns and trends.
 
 **Key Skills:**
+
 - Data manipulation
 - Summary statistics
 - Educational data analysis
@@ -59,10 +64,12 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ---
 
 #### Project 3: Visualizing the History of Nobel Prize Winners
-**Duration:** 2 hours  
+
+**Duration:** 2 hours
 **Description:** Explored a century's worth of Nobel Laureate data to uncover patterns in prize distribution across countries, genders, and categories.
 
 **Key Skills:**
+
 - Historical data analysis
 - Data visualization with Seaborn
 - Pattern recognition
@@ -72,10 +79,12 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ---
 
 #### Project 4: Analyzing Crime in Los Angeles
-**Duration:** 2 hours  
+
+**Duration:** 2 hours
 **Description:** Investigated crime patterns in Los Angeles to determine when and where crimes are most likely to occur and identify the most common types of crimes.
 
 **Key Skills:**
+
 - Time series analysis
 - Geospatial data analysis
 - Crime pattern identification
@@ -85,10 +94,12 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ---
 
 #### Project 5: Hypothesis Testing with Men's and Women's Soccer Matches
-**Duration:** 2 hours  
+
+**Duration:** 2 hours
 **Description:** Performed hypothesis testing to determine if there are statistically significant differences in goals scored between men's and women's soccer matches.
 
 **Key Skills:**
+
 - Hypothesis testing
 - Statistical analysis
 - Sports analytics
@@ -100,6 +111,7 @@ This repository contains hands-on projects completed as part of the DataCamp Dat
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 ```bash
 python --version  # Python 3.7 or higher recommended
 ```
@@ -107,12 +119,14 @@ python --version  # Python 3.7 or higher recommended
 ### Installation
 
 1. Clone this repository:
+
 ```bash
 git clone https://github.com/yourusername/python-data-analyst-track-projects.git
 cd python-data-analyst-track-projects
 ```
 
 2. Create a virtual environment (optional but recommended):
+
 ```bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
@@ -120,11 +134,13 @@ venv\Scripts\activate  # On Windows
 ```
 
 3. Install required packages:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### Required Packages
+
 ```
 pandas>=1.3.0
 numpy>=1.21.0
@@ -199,9 +215,9 @@ This is a personal learning repository, but feedback and suggestions are always 
 
 ## 📧 Contact
 
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **GitHub:** [@J](https://github.com/yourusername)honelkour
+- **LinkedIn:** Oussama El-kourdini
+- **Email:** oussamaelkourdini@gmail.com
 
 ## 📜 License
 
